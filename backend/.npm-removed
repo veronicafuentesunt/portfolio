@@ -1,0 +1,2 @@
+Node modules and npm lockfile were removed because backend is a Python Flask app.
+If you need to fully delete node_modules, run: rm -r node_modules (or use Explorer on Windows).
